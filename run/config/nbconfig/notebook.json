@@ -1,0 +1,8 @@
+{
+  "load_extensions": {
+    "ipyvolume/extension": true,
+    "notify/notify": true,
+    "jupyter-js-widgets/extension": true,
+    "code_prettify/autopep8": false
+  }
+}
